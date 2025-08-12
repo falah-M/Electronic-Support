@@ -1,2 +1,2 @@
 # Electronic-Support
-# Uust for demo nothing else, thank you for visting!!
+# Just for demo nothing else, thank you for visting!!
